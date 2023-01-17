@@ -1,0 +1,28 @@
+{
+  "name": "fundamentos-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joos94/fundamentos-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joos94/fundamentos-ts/issues"
+  },
+  "homepage": "https://github.com/Joos94/fundamentos-ts#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "lodash": "^4.17.21"
+  }
+}
